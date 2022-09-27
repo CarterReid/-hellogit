@@ -3,8 +3,10 @@ package helloGit;
 public class HelloGit {
 
 	public static void main(String[] args) {
+		
+		// a greeting
 		System.out.println("hello, git!");
-		//11:32
+		
 	} 
 
 }
